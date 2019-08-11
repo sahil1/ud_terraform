@@ -9,3 +9,6 @@ samples/*/terraform.tfvars
 samples/*/terraform.tfstate
 samples/*/terraform.tfstate.backup
 samples/*/.terraform
+samples/*/mykey
+samples/*/mykey.pem
+samples/*/mykey.pub
